@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RaHNupF1UTg=",
+  "success": true,
+  "projectFilePath": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

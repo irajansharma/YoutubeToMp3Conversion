@@ -1,0 +1,91 @@
+@page "/"
+@implements IDisposable
+@inject IHttpClientFactory HttpClientFactory
+@inject IConfiguration Configuration
+
+<div class="card">
+    <h2>Convert a video</h2>
+    <p class="muted">Works with very long videos (10+ hours) — audio downloads and converts as a background job.</p>
+
+    <EditForm Model="_form" OnValidSubmit="StartConversion">
+        <div class="field">
+            <label for="url">YouTube URL</label>
+            <input id="url" class="input" placeholder="https://www.youtube.com/watch?v=..."
+                   @bind="_form.Url" disabled="@IsBusy" />
+        </div>
+
+        <div class="field-row">
+            <div class="field">
+                <label for="bitrate">Quality</label>
+                <select id="bitrate" class="input" @bind="_form.BitrateKbps" disabled="@IsBusy">
+                    <option value="128">128 kbps</option>
+                    <option value="192">192 kbps (recommended)</option>
+                    <option value="256">256 kbps</option>
+                    <option value="320">320 kbps</option>
+                </select>
+            </div>
+
+            <div class="field">
+                <label for="split">Split into chunks</label>
+                <select id="split" class="input" @bind="_form.SplitMinutesOption" disabled="@IsBusy">
+                    <option value="0">Single file</option>
+                    <option value="30">30 min chunks (.zip)</option>
+                    <option value="60">60 min chunks (.zip)</option>
+                    <option value="120">2 hour chunks (.zip)</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="field">
+            <label for="name">File name (optional)</label>
+            <input id="name" class="input" placeholder="Defaults to video title"
+                   @bind="_form.FileName" disabled="@IsBusy" />
+        </div>
+
+        <button type="submit" class="btn btn-primary" disabled="@IsBusy">
+            @(IsBusy ? "Working..." : "Convert to MP3")
+        </button>
+    </EditForm>
+
+    @if (_errorMessage is not null)
+    {
+        <div class="alert alert-error">@_errorMessage</div>
+    }
+</div>
+
+@if (_job is not null)
+{
+    <div class="card">
+        <h2>@(_job.Title ?? "Processing...")</h2>
+
+        @if (_job.Duration is TimeSpan d)
+        {
+            <p class="muted">Video length: @FormatDuration(d)</p>
+        }
+
+        <div class="progress-track">
+            <div class="progress-fill" style="width: @(_job.ProgressPercent.ToString("0.0"))%"></div>
+        </div>
+        <p class="progress-label">
+            @_job.Status &mdash; @_job.Message (@_job.ProgressPercent.ToString("0.0")%)
+        </p>
+
+        @if (_job.Status == JobStatus.Failed && _job.ErrorMessage is not null)
+        {
+            <div class="alert alert-error">@_job.ErrorMessage</div>
+        }
+
+        @if (_job.IsReadyForDownload)
+        {
+            <a class="btn btn-success" href="@DownloadUrl" download="@_job.OutputFileName">
+                ⬇ Download @_job.OutputFileName
+            </a>
+        }
+        else if (_job.Status is JobStatus.Downloading or JobStatus.Converting or JobStatus.FetchingInfo or JobStatus.Queued)
+        {
+            <button class="btn btn-secondary" @onclick="CancelJob">Cancel</button>
+        }
+    </div>
+}
+
+

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "YoutubeToMp3.Web": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54348;http://localhost:54349"
+    }
+  }
+}

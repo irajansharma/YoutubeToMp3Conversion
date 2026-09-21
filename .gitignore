@@ -1,0 +1,3 @@
+# Generated audio files
+YoutubeToMp3.Api/Storage/output/*
+!YoutubeToMp3.Api/Storage/output/.gitkeep

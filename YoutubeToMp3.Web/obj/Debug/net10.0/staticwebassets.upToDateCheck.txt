@@ -1,0 +1,6 @@
+C:\Users\Asus\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.12\build\..\_framework\blazor.server.js
+C:\Users\Asus\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.12\build\..\_framework\blazor.web.js
+D:\Code\.net  projects\YoutubeToMp3Web\YoutubeToMp3.Web\wwwroot\css\app.css
+C:\Users\Asus\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.12\_framework\blazor.web.js
+C:\Users\Asus\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.12\_framework\blazor.server.js
+wwwroot\css\app.css

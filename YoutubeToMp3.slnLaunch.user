@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

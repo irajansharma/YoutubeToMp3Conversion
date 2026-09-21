@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "YoutubeToMp3.Api.Controllers.ConvertController",
+    "Method": "Start",
+    "RelativePath": "api/convert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "YoutubeToMp3.Shared.Models.StartConversionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YoutubeToMp3.Api.Controllers.ConvertController",
+    "Method": "GetStatus",
+    "RelativePath": "api/convert/{jobId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "YoutubeToMp3.Shared.Models.ConversionJobDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "YoutubeToMp3.Api.Controllers.ConvertController",
+    "Method": "Cancel",
+    "RelativePath": "api/convert/{jobId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YoutubeToMp3.Api.Controllers.ConvertController",
+    "Method": "Download",
+    "RelativePath": "api/convert/{jobId}/download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

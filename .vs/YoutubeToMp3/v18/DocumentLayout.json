@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.web\\pages\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|solutionrelative:youtubetomp3.web\\pages\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|solutionrelative:youtubetomp3.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.web\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|solutionrelative:youtubetomp3.web\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|solutionrelative:youtubetomp3.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|solutionrelative:youtubetomp3.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|solutionrelative:youtubetomp3.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.api\\youtubetomp3.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|solutionrelative:youtubetomp3.api\\youtubetomp3.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.api\\services\\youtubedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|solutionrelative:youtubetomp3.api\\services\\youtubedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.api\\services\\audioconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|solutionrelative:youtubetomp3.api\\services\\audioconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.api\\controllers\\convertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|solutionrelative:youtubetomp3.api\\controllers\\convertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.api\\services\\jobstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|solutionrelative:youtubetomp3.api\\services\\jobstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|solutionrelative:youtubetomp3.web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.web\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|solutionrelative:youtubetomp3.web\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.web\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|solutionrelative:youtubetomp3.web\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.web\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|solutionrelative:youtubetomp3.web\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|YoutubeToMp3.Shared\\YoutubeToMp3.Shared.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.shared\\models\\conversionjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|YoutubeToMp3.Shared\\YoutubeToMp3.Shared.csproj|solutionrelative:youtubetomp3.shared\\models\\conversionjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.api\\services\\conversionjobstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|solutionrelative:youtubetomp3.api\\services\\conversionjobstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.api\\services\\conversionbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|solutionrelative:youtubetomp3.api\\services\\conversionbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|solutionrelative:youtubetomp3.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj|solutionrelative:youtubetomp3.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|d:\\code\\.net  projects\\youtubetomp3web\\youtubetomp3.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|YoutubeToMp3.Web\\YoutubeToMp3.Web.csproj|solutionrelative:youtubetomp3.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor.cs",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Pages\\Index.razor.cs",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Web\\Pages\\Index.razor.cs",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Pages\\Index.razor.cs",
+              "RelativeToolTip": "YoutubeToMp3.Web\\Pages\\Index.razor.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T11:35:04.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Web\\appsettings.json",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\appsettings.json",
+              "RelativeToolTip": "YoutubeToMp3.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-20T10:29:37.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConvertController.cs",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Controllers\\ConvertController.cs",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Api\\Controllers\\ConvertController.cs",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Controllers\\ConvertController.cs",
+              "RelativeToolTip": "YoutubeToMp3.Api\\Controllers\\ConvertController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T10:14:01.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\App.razor",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Web\\App.razor",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\App.razor",
+              "RelativeToolTip": "YoutubeToMp3.Web\\App.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-20T11:08:03.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Web\\Pages\\Index.razor",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Pages\\Index.razor",
+              "RelativeToolTip": "YoutubeToMp3.Web\\Pages\\Index.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-20T11:00:18.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Program.cs",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Web\\Program.cs",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Program.cs",
+              "RelativeToolTip": "YoutubeToMp3.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T10:32:11.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Program.cs",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Api\\Program.cs",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Program.cs",
+              "RelativeToolTip": "YoutubeToMp3.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T11:28:02.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YoutubeToMp3.Api.csproj",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj",
+              "RelativeToolTip": "YoutubeToMp3.Api\\YoutubeToMp3.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-20T11:27:11.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobStore.cs",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Services\\JobStore.cs",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Api\\Services\\JobStore.cs",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Services\\JobStore.cs",
+              "RelativeToolTip": "YoutubeToMp3.Api\\Services\\JobStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T10:48:47.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AudioConverter.cs",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Services\\AudioConverter.cs",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Api\\Services\\AudioConverter.cs",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Services\\AudioConverter.cs",
+              "RelativeToolTip": "YoutubeToMp3.Api\\Services\\AudioConverter.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T10:48:22.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Web\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Pages\\Error.cshtml",
+              "RelativeToolTip": "YoutubeToMp3.Web\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-20T11:07:36.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YoutubeDownloader.cs",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Services\\YoutubeDownloader.cs",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Api\\Services\\YoutubeDownloader.cs",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Services\\YoutubeDownloader.cs",
+              "RelativeToolTip": "YoutubeToMp3.Api\\Services\\YoutubeDownloader.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T10:48:49.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Web\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "YoutubeToMp3.Web\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-20T11:07:34.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Web\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "YoutubeToMp3.Web\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-20T11:07:41.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Web\\Pages\\_Host.cshtml",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "YoutubeToMp3.Web\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-20T11:07:29.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConversionJobDto.cs",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Shared\\Models\\ConversionJobDto.cs",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Shared\\Models\\ConversionJobDto.cs",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Shared\\Models\\ConversionJobDto.cs",
+              "RelativeToolTip": "YoutubeToMp3.Shared\\Models\\ConversionJobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T11:06:58.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConversionJobState.cs",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Services\\ConversionJobState.cs",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Api\\Services\\ConversionJobState.cs",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Services\\ConversionJobState.cs",
+              "RelativeToolTip": "YoutubeToMp3.Api\\Services\\ConversionJobState.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T10:48:43.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConversionBackgroundService.cs",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Services\\ConversionBackgroundService.cs",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Api\\Services\\ConversionBackgroundService.cs",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Services\\ConversionBackgroundService.cs",
+              "RelativeToolTip": "YoutubeToMp3.Api\\Services\\ConversionBackgroundService.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T10:48:32.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Api\\appsettings.json",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\appsettings.json",
+              "RelativeToolTip": "YoutubeToMp3.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-20T10:42:53.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "YoutubeToMp3.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-20T10:24:01.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "YoutubeToMp3.Web\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Code\\.net  projects\\YoutubeToMp3Web\\YoutubeToMp3.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "YoutubeToMp3.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-20T10:23:43.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
